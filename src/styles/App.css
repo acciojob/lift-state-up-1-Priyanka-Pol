@@ -1,1 +1,15 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    padding: 2rem;
+    background-color: blueviolet;
+}
+.child {
+    padding: 2rem;
+    background-color: darkred;
+}
