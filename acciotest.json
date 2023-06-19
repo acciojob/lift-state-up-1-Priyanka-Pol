@@ -1,0 +1,4 @@
+{
+    "testRepo": "lift-state-up-1-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
